@@ -21,3 +21,9 @@ By playing this game you agree that if this game breaks we will not be responsib
 Any way, please send us an email (bobschlowinskii@gmail.com) and we will send you a folder containing the fixed
 program. We are not responsible for any Malware transfered to your computer. This App is virus-free, and if it 
 somehow broke your system we will not take responsobility.
+
+--UPDATES--
+Check here every month for new updates! 
+
+--WARNINGS--
+WARNING: older versions of the file will be terminated and will not be supported. If you have any questions on outdated files just write an E-Mail to bobschlowinskii@gmail.com with the subject "QUESTION"
